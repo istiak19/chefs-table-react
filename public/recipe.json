@@ -1,0 +1,101 @@
+[
+    {
+        "recipe_id": 1,
+        "recipe_image": "https://i.ibb.co.com/k83kVqs/recipe-1.jpg",
+        "recipe_name": "Grilled Lemon Chicken",
+        "short_description": "A flavorful chicken dish marinated in lemon and herbs, then grilled to perfection.",
+        "ingredients": [
+            "550 g chicken breast",
+            "2 lemons, juiced",
+            "3 garlic cloves, minced",
+            "120 ml olive oil",
+            "1 tsp thyme",
+            "1 tsp rosemary",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 45,
+        "calories": 350
+    },
+    {
+        "recipe_id": 2,
+        "recipe_image": "https://i.ibb.co.com/QNxtpcf/re.jpg",
+        "recipe_name": "Classic Margherita Pizza",
+        "short_description": "A simple and delicious Margherita pizza with fresh tomatoes, mozzarella, and basil.",
+        "ingredients": [
+            "250 g pizza dough",
+            "150 g fresh mozzarella",
+            "100 g tomato sauce",
+            "20 fresh basil leaves",
+            "2 tbsp olive oil",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 30,
+        "calories": 500
+    },
+    {
+        "recipe_id": 3,
+        "recipe_image": "https://i.ibb.co.com/prwc91X/recipe-2.jpg",
+        "recipe_name": "Vegetable Stir-Fry",
+        "short_description": "A healthy and vibrant vegetable stir-fry with soy sauce and ginger.",
+        "ingredients": [
+            "200 g broccoli florets",
+            "150 g bell peppers",
+            "100 g carrots",
+            "100 g snow peas",
+            "120 ml soy sauce",
+            "2 tbsp ginger, minced",
+            "2 tbsp sesame oil"
+        ],
+        "preparing_time": 20,
+        "calories": 220
+    },
+    {
+        "recipe_id": 4,
+        "recipe_image": "https://i.ibb.co.com/GWhD6HG/recipe-4.jpg",
+        "recipe_name": "Beef Tacos",
+        "short_description": "Spicy ground beef served in soft tortillas with fresh toppings.",
+        "ingredients": [
+            "300 g ground beef",
+            "6 soft tortillas",
+            "50 g shredded cheese",
+            "100 g lettuce, chopped",
+            "1 tomato, diced",
+            "2 tbsp taco seasoning",
+            "100 ml sour cream"
+        ],
+        "preparing_time": 25,
+        "calories": 450
+    },
+    {
+        "recipe_id": 5,
+        "recipe_image": "https://i.ibb.co.com/tLM2HDK/recipe-5.jpg",
+        "recipe_name": "Spaghetti Carbonara",
+        "short_description": "Classic Italian pasta dish with creamy egg sauce and pancetta.",
+        "ingredients": [
+            "200 g spaghetti",
+            "100 g pancetta",
+            "2 eggs",
+            "50 g parmesan cheese, grated",
+            "2 garlic cloves, minced",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 30,
+        "calories": 600
+    },
+    {
+        "recipe_id": 6,
+        "recipe_image": "https://i.ibb.co.com/QPGhyHV/recipe-6.jpg",
+        "recipe_name": "Avocado Toast",
+        "short_description": "Creamy avocado spread on toasted bread, topped with chili flakes.",
+        "ingredients": [
+            "2 slices of bread",
+            "1 ripe avocado",
+            "1 tsp lemon juice",
+            "1 tsp olive oil",
+            "Chili flakes",
+            "Salt and pepper to taste"
+        ],
+        "preparing_time": 10,
+        "calories": 250
+    }
+]
