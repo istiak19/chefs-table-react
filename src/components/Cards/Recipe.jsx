@@ -14,16 +14,14 @@ const Recipe = ({ recipe }) => {
                 <h2>{recipe_name}</h2>
                 <p className='text-xs text-gray-400 border-b-2 pb-3'>{short_description}</p>
                 <p className='font-semibold'>Ingredients: {ingredients.length}</p>
-                <p className='border-b-2 pb-3'>
-                    <ul>
+                <p className='border-b-2 pb-3 ml-3'>
                         {
-                            ingredients.map((ingredient, idx) => <li className='text-xs text-gray-400' key={idx}>{ingredient}</li>)
+                            ingredients.map((ingredient, idx) => <li className=' list-disc text-xs text-gray-400' key={idx}>{ingredient}</li>)
                         }
-                    </ul>
                 </p>
                 <div className='flex gap-4'>
                     <p><span><i className="fa-regular fa-clock mr-2"></i>{preparing_time} minutes</span></p>
-                    <p><span><i className="fa-solid fa-cookie mr-2"></i>{calories}</span></p>
+                    <p><span><i className="fa-solid fa-cookie mr-2"></i>{calories} calories</span></p>
                 </div>
                 <button className='btn bg-green-500 rounded-3xl font-medium'>Want to Cook</button>
             </div>
