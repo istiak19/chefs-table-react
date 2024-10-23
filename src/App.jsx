@@ -41,7 +41,7 @@ function App() {
       {/* Header section */}
       <Header></Header>
       {/* Recipe card section */}
-      <div className="flex flex-col md:flex-row w-11/12 mx-auto gap-5">
+      <div className="flex md:flex-row flex-col w-11/12 mx-auto gap-5 mb-10">
         <Cards handleWantToCook={handleWantToCook}></Cards>
         <SideBar wantToCook={wantToCook}
           times={times}
